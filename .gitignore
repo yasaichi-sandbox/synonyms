@@ -5,7 +5,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -48,4 +49,15 @@ _testmain.go
 *.exe
 *.test
 
+
+### Project-specific settings
+
+# Compiled files
+synonyms
+
+# Dep
+vendor/
+
+# Environment variables for dev
+.envrc
 
